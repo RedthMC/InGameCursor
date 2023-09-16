@@ -1,0 +1,11 @@
+{
+  "package": "me.redth.ingamecursor.mixin",
+  "refmap": "mixins.ingamecursor.refmap.json",
+  "compatibilityLevel": "JAVA_8",
+  "minVersion": "0.7",
+  "mixins": [
+  ],
+  "client": [
+    "MouseHelperMixin"
+  ]
+}
